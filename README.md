@@ -28,8 +28,8 @@ This script require the time, math, sys and doctest package.
 ## How to use it
 #### 1. Clone this repository:
 ```zsh
-$> git clone https://github.com/StokicDusan/Python-misc.git
-$> cd Python-misc/LucasSequence/
+$> git clone https://github.com/StokicDusan/LucasSequence
+$> cd LucasSequence/
 ```
 #### 2. Launch:
 In the command line simply invoke the script with three arguments:
