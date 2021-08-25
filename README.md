@@ -1,3 +1,11 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Commit-activity][commit-activity-shield]][commit-activity-url]
+[![Issues][issues-shield]][issues-url]
+[![Repo-size][repo-size-shield]][repo-size-url]
+[![License][license-shield]][license-url]  
+[![Forks][forks-shield]][forks-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 # Lucas Sequence
 
 Lucas Sequence L is a sequence of numbers such that L(n) = L(n-1) + L(n-2)
@@ -45,3 +53,18 @@ Any positive integer
 
 
 Invoking the script with no or less arguments will run testmod().
+
+[contributors-shield]: https://img.shields.io/github/contributors/StokicDusan/LucasSequence
+[contributors-url]: https://github.com/StokicDusan/LucasSequence/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/StokicDusan/LucasSequence?style=social
+[forks-url]: https://github.com/StokicDusan/LucasSequence/network/members
+[issues-shield]: https://img.shields.io/github/issues/StokicDusan/LucasSequence
+[issues-url]: https://github.com/StokicDusan/LucasSequence/issues
+[commit-activity-shield]: https://img.shields.io/github/last-commit/StokicDusan/LucasSequence
+[commit-activity-url]: https://github.com/StokicDusan/LucasSequence/graphs/commit-activity
+[license-url]: https://github.com/StokicDusan/LucasSequence/blob/main/LICENSE
+[license-shield]: https://img.shields.io/github/license/StokicDusan/LucasSequence
+[repo-size-shield]: https://img.shields.io/github/repo-size/StokicDusan/LucasSequence
+[repo-size-url]: https://img.shields.io/github/repo-size/StokicDusan/LucasSequence
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=plastice&logo=linkedin&logoColor=white
+[linkedin-url]: https://linkedin.com/in/stokicdusan
