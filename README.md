@@ -6,7 +6,7 @@
 [![Forks][forks-shield]][forks-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-# Lucas Sequence
+# Welcome to LucasSequence
 
 Lucas Sequence L is a sequence of numbers such that L(n) = L(n-1) + L(n-2)
 
