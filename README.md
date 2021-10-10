@@ -73,6 +73,11 @@ $ python3 lucasSequence.py 5 -20 4
 5 -20 -15 -35
 ```
 
+## Provide Feedback 👍
+
+If you encounter any bugs or have suggestions, please file an issue in the
+[Issues][issues-url]
+section of the project.
 
 [contributors-shield]: https://img.shields.io/github/contributors/StokicDusan/LucasSequence
 [contributors-url]: https://github.com/StokicDusan/LucasSequence/graphs/contributors
