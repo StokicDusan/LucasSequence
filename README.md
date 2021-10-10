@@ -35,13 +35,13 @@ This script require the time, math, sys and doctest package.
 
 ## How to use it
 #### 1. Clone this repository:
-```zsh
+```bash
 $ git clone https://github.com/StokicDusan/LucasSequence
 $ cd LucasSequence/
 ```
 #### 2. Launch:
 In the command line simply invoke the script with three arguments:
-```zsh
+```bash
 $ python lucasSequence.py argv1 argv2 argv3 
 ```
 * argv1, argv2:  
