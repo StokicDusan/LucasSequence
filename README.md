@@ -35,14 +35,14 @@ This script require the time, math, sys and doctest package.
 
 ## How to use it
 #### 1. Clone this repository:
-```zsh
-$> git clone https://github.com/StokicDusan/LucasSequence
-$> cd LucasSequence/
+```bash
+$ git clone https://github.com/StokicDusan/LucasSequence
+$ cd LucasSequence/
 ```
 #### 2. Launch:
 In the command line simply invoke the script with three arguments:
-```zsh
-$> python lucasSequence.py argv1 argv2 argv3 
+```bash
+$ python lucasSequence.py argv1 argv2 argv3 
 ```
 * argv1, argv2:  
 Any integer 
@@ -51,8 +51,33 @@ Any positive integer
 
 :warning: *Note:* Other inputs will result in an error
 
-
 Invoking the script with no or less arguments will run testmod().
+
+## Examples
+
+The following code block shows examles of calling the lucasSequence script from terminal.
+```bash
+$ python3 lucasSequence.py 0 0 6
+0 0 0 0 0 0 
+
+$ python3 lucasSequence.py 2 1 10
+2 1 3 4 7 11 18 29 47 76 
+
+$ python3 lucasSequence.py 1 1 12
+1 1 2 3 5 8 13 21 34 55 89 144 
+
+$ python3 lucasSequence.py 2308 4261 5
+2308 4261 6569 10830 17399
+
+$ python3 lucasSequence.py 5 -20 4
+5 -20 -15 -35
+```
+
+## Provide Feedback 👍
+
+If you encounter any bugs or have suggestions, please file an issue in the
+[Issues][issues-url]
+section of the project.
 
 [contributors-shield]: https://img.shields.io/github/contributors/StokicDusan/LucasSequence
 [contributors-url]: https://github.com/StokicDusan/LucasSequence/graphs/contributors
