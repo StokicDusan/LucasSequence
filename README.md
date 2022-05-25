@@ -8,7 +8,7 @@
 
 # Welcome to LucasSequence
 
-Lucas Sequence L is a sequence of numbers such that $L(n) = L(n-1) + L(n-2)$
+Lucas Sequence $L$ is a sequence of numbers such that $L(n) = L(n-1) + L(n-2)$
 
 ## What does the script do?
 The script prints numbers of the Lucas Sequence on the command line or just the last number given the number if iterations.
