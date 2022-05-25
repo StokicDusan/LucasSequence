@@ -8,14 +8,14 @@
 
 # Welcome to LucasSequence
 
-Lucas Sequence L is a sequence of numbers such that L(n) = L(n-1) + L(n-2)
+Lucas Sequence $L$ is a sequence of numbers such that $L(n) = L(n-1) + L(n-2)$
 
 ## What does the script do?
 The script prints numbers of the Lucas Sequence on the command line or just the last number given the number if iterations.
 
 ## `lucasSequence.py` :
 This script is ready to use script which uses three arguments. The 
-arguments determine the values for L(0) and L(1) and how many iterations to go through, respectively.
+arguments determine the values for $L(0)$ and $L(1)$ and how many iterations to go through, respectively.
 
 ### lucas_sequence:
 Function prints numbers divided by a space character.  
@@ -75,9 +75,7 @@ $ python3 lucasSequence.py 5 -20 4
 
 ## Provide Feedback 👍
 
-If you encounter any bugs or have suggestions, please file an issue in the
-[Issues][issues-url]
-section of the project.
+If you encounter any bugs or have suggestions, please file an issue in the [Issues][issues-url] section of the project.
 
 [contributors-shield]: https://img.shields.io/github/contributors/StokicDusan/LucasSequence
 [contributors-url]: https://github.com/StokicDusan/LucasSequence/graphs/contributors
